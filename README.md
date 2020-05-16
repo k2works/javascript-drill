@@ -21,6 +21,12 @@
 
 ### 構築
 
+```powershell
+npm init -y
+npm install --save-dev mocha
+npm test
+```
+
 **[⬆ back to top](#構成)**
 
 ### 配置
